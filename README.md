@@ -1,1 +1,1 @@
-# Cursod e GIT 
+# Curso de GIT 
